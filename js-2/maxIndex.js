@@ -7,7 +7,8 @@ function maxIndex(my_array) {
       var maxIndex = 0;
  
       for (var i = 1; i < my_array.length; i++) {
-          if (my_array[i] > maximumValue) {
+          // If para hallar el mayor valor
+        if (my_array[i] > maximumValue) { 
               maximumValue = my_array[i];
               maxIndex = i;
               
