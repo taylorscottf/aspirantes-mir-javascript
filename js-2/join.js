@@ -6,4 +6,4 @@ function joinFunction(arr){
     console.log(string) 
   }
   
-  joinFunction(['','Vincent','Zappa']) 
+  joinFunction(['Juan','Vincent','Zappa']) 
